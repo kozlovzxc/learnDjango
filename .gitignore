@@ -1,2 +1,5 @@
+# IDEA settings
 .idea
+learnDjango.iml
+
 db.sqlite3
